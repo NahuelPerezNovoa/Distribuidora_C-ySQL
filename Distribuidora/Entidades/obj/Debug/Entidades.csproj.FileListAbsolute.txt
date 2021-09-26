@@ -1,0 +1,6 @@
+C:\Users\Nahuel\source\repos\Distribuidora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nahuel\source\repos\Distribuidora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\source\repos\Distribuidora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Distribuidora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Distribuidora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nahuel\source\repos\Distribuidora\Entidades\obj\Debug\Entidades.pdb

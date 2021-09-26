@@ -1,0 +1,10 @@
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\bin\Debug\ConsolaDePrueba.exe.config
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\bin\Debug\ConsolaDePrueba.exe
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\bin\Debug\ConsolaDePrueba.pdb
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\bin\Debug\Entidades.dll
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.csproj.CopyComplete
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.exe
+C:\Users\Nahuel\source\repos\Distribuidora\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.pdb
